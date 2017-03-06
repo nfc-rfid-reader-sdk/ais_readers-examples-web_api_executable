@@ -1,3 +1,3 @@
 [submodule "ais_http_pyinstaller/lib"]
 	path = ais_http_pyinstaller/lib
-	url = https://git.d-logic.net/nfc-rfid-reader-sdk/ais-readers-lib-production.git
+	url = https://git.d-logic.net/nfc-rfid-reader-sdk/ais_readers-lib.git
